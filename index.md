@@ -32,7 +32,7 @@ The files in this repository are from the [Official wimlib site Release-v-1.13.6
 <img width="128" alt="logo" src="https://user-images.githubusercontent.com/6248794/211173953-4df687de-26e9-40b8-9053-62be4f1a03f8.png">
 
 See ➤ [What is wimlib](https://github.com/chris1111/Wimlib-Imagex-Package/blob/main/README)
-Usage ➤ [Usage: wimlib-imagex](https://github.com/chris1111/Site-Wimlib-Imagex-Package/blob/Master/Usage-wimlib-imagex.md)
+Usage ➤ [Usage: wimlib-imagex](https://github.com/chris1111/Wimlib-Imagex-Package/blob/main/Usage-wimlib-imagex.md)
 
 
 - [x] `Installation`
@@ -42,7 +42,7 @@ cd WimlibDev
 git clone https://github.com/chris1111/Wimlib-Imagex-Package
 ./Wimlib-Imagex-Package/Build-Package.tool
 ```
-See Video Demonstartion ➤ [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/211171949-884b17a1-8edc-435d-a2b0-272334068365.png)](https://github.com/chris1111/Site-Wimlib-Imagex-Package/blob/Master/Video%20Page.md)
+See Video Demonstartion ➤ [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/211171949-884b17a1-8edc-435d-a2b0-272334068365.png)](https://github.com/chris1111/Wimlib-Imagex-Package/blob/main/Video%20Page.md)
   
 ### Credit: 
 - Special thanks to ➤ [Wimlib](https://wimlib.net/) for Wimlib
